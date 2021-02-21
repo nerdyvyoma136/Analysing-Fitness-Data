@@ -9,5 +9,7 @@ With the explosion in fitness tracker popularity, runners all of the world are c
 •Am I progressing?•What were my best achievements?
 
 •How do I perform compared to others?
+
 This data was exported from Runkeeper. 
+
 The data is a CSV file where each row is a single training activity.
