@@ -6,7 +6,9 @@ With the explosion in fitness tracker popularity, runners all of the world are c
 
 •Have I succeeded with my training goals?
 
-•Am I progressing?•What were my best achievements?
+•Am I progressing?
+
+•What were my best achievements?
 
 •How do I perform compared to others?
 
